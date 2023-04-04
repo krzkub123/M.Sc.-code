@@ -19,7 +19,7 @@ import numpy as np
 import sys, os
 
 # globally declare value
-def globalDeclareValues():
+def globalDeclareValues(): 
     """
     globaly declaration of values, used for clearing existing data
     :return:
@@ -394,6 +394,7 @@ class tabGUI():
         self.data = pd.DataFrame(columns = ["time", "value"])
 
 if __name__ == '__main__':
+    # tkinter init
     root = tk.Tk()
 
     tabControl = ttk.Notebook(root)
