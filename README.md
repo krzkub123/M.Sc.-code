@@ -15,8 +15,8 @@ Project is an implementation of three mathematical models for demand estimation 
 2. Compile file: "Forecast_app.py"
 3. Running app 
 - Depending on the input data input choose one of following tab (1): Brown, Holt or Winters load data (2) in format provided in folder, data will be shown in table (3)
-image-1.png
+<br>(https://github.com/krzkub123/M.Sc.-code/blob/master/pic/image-1.png?raw=true)
 -> In case of Winters model run window (1) to help check what kind of data (1) (additive or multiplicative) it is and choose Winters model (3;4). Input also Period length and overtake length (5)
-image-2.png
+<br>(https://user-images.githubusercontent.com/124029435/229750616-00f4ef72-ba8e-442e-828b-b2f99aed4c15.png)
 - Run the analysis by clicking button (1), optimal coefficient of alpha, beta and gamma will be displayed (2). Results are for user interpretation (3).
-image-3.png
+<br>(https://github.com/krzkub123/M.Sc.-code/blob/master/pic/image-3.png?raw=true)
